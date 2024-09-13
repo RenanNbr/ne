@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #f40404;
 }
 
 h1 {
@@ -19,7 +19,7 @@ h1 {
 }
 
 .form-section, .search-section, .list-section {
-    background: white;
+    background:white;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
